@@ -28,13 +28,7 @@ tweet-sentiment-project/
 │   ├── docker-compose.yml      # Configuration Docker pour Hadoop/Spark/Hive
 │   └── hadoop-hive.env         # Variables d'environnement
 │
-├── report/
-│   ├── Rapport_Analyse_Tweets.md    # Rapport en Markdown
-│   ├── Rapport_Analyse_Tweets.docx  # Rapport Word académique
-│   └── convert_md_to_docx.py        # Script de conversion MD vers DOCX
 │
-├── presentation/
-│   └── slide_*.html            # Slides de présentation HTML
 │
 ├── README.md                   # Ce fichier
 └── requirements.txt            # Dépendances Python
